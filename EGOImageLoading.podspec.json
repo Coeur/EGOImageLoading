@@ -1,0 +1,19 @@
+{
+  "name": "EGOImageLoading",
+  "version": "0.0.1",
+  "platforms": {
+    "ios": null
+  },
+  "license": "MIT",
+  "summary": "What if images on the iPhone were as easy as HTML?",
+  "homepage": "https://github.com/enormego/EGOImageLoading",
+  "authors": "Shaun Harrison",
+  "source": {
+    "git": "https://github.com/enormego/EGOImageLoading.git"
+  },
+  "source_files": "EGO*/*.{h,m}",
+  "dependencies": {
+    "EGOCache": []
+  },
+  "requires_arc": false
+}
